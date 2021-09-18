@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Audrone\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Audrone\\.nuget\\packages"
+    ]
+  }
+}
