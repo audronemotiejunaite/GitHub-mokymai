@@ -1,2 +1,2 @@
 # GitHub-mokymai
- Pirma pamoka skirta mokymuisi
+ Pirma pamoka, skirta išmokti naudotis GitHub.
